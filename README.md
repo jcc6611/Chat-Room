@@ -1,2 +1,2 @@
 # Chat-Room
-Practiceing MVC design and networking
+Practicing MVC design and networking
